@@ -67,44 +67,44 @@ The platform features responsive design, user authentication, and an admin dashb
    Navigate to project directory
 
 bash
-Copy
+- Copy
 Edit
 cd your-repo-name
-Install frontend dependencies
+- Install frontend dependencies
 
 bash
-Copy
+- Copy
 Edit
 cd client
 npm install
-Install backend dependencies
+- Install backend dependencies
 
 bash
 Copy
-Edit
+- Edit
 cd ../server
 npm install
-Setup environment variables
+- Setup environment variables
 
-Create .env files in client and server folders with required keys (Firebase config, MongoDB URI, JWT secret, etc.)
+- Create .env files in client and server folders with required keys (Firebase config, MongoDB URI, JWT secret, etc.)
 
-Run frontend
+- Run frontend
 
 bash
-Copy
+- Copy
 Edit
 cd ../client
-npm start
-Run backend
+- npm start
+- Run backend
 
 bash
-Copy
+- Copy
 Edit
 cd ../server
-npm run dev
-Open browser at
+- npm run dev
+- Open browser at
 
 arduino
-Copy
+- Copy
 Edit
-http://localhost:3000
+- http://localhost:3000
