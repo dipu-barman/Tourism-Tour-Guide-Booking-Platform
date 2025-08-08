@@ -10,3 +10,56 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Tourist Booking Platform
+
+## Project Overview
+A full-stack web application for booking tourist packages with multiple tour guides.  
+Users can browse tours, select guides, book packages securely, and track their bookings.  
+The platform features responsive design, user authentication, and an admin dashboard for management.
+
+## Live Project
+🔗 [Live Demo](https://your-live-site-link.com)  
+🔗 [GitHub Repository](https://github.com/your-username/your-repo-name)
+
+## Screenshot
+![Platform Screenshot](screenshot.png)  
+*Replace `screenshot.png` with an actual clean screenshot image in the repo.*
+
+## Technologies Used
+- React.js  
+- Tailwind CSS & DaisyUI  
+- Firebase Authentication  
+- Node.js & Express.js  
+- MongoDB & Mongoose  
+- React Hook Form  
+- React Router DOM  
+- Axios  
+- Framer Motion  
+
+## Core Features
+- User registration and login with Firebase Authentication  
+- Browse and search tour packages dynamically  
+- Select tour guides and make bookings  
+- Responsive UI with smooth animations  
+- Protected routes and secure data access  
+- Admin dashboard for managing tours, guides, and bookings  
+- Real-time booking status updates  
+
+## Dependencies
+- react  
+- react-dom  
+- react-router-dom  
+- tailwindcss  
+- daisyui  
+- firebase  
+- axios  
+- express  
+- mongoose  
+- react-hook-form  
+- framer-motion  
+
+## How to Run Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
