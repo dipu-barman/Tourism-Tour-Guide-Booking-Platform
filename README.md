@@ -63,3 +63,48 @@ The platform features responsive design, user authentication, and an admin dashb
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+   Navigate to project directory
+
+bash
+Copy
+Edit
+cd your-repo-name
+Install frontend dependencies
+
+bash
+Copy
+Edit
+cd client
+npm install
+Install backend dependencies
+
+bash
+Copy
+Edit
+cd ../server
+npm install
+Setup environment variables
+
+Create .env files in client and server folders with required keys (Firebase config, MongoDB URI, JWT secret, etc.)
+
+Run frontend
+
+bash
+Copy
+Edit
+cd ../client
+npm start
+Run backend
+
+bash
+Copy
+Edit
+cd ../server
+npm run dev
+Open browser at
+
+arduino
+Copy
+Edit
+http://localhost:3000
